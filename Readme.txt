@@ -1,2 +1,2 @@
 # Portfolio
-### I have implemented Portfolio using various concept ofHTML,CSS and JavaScript
+### I have implemented Portfolio using various concept of HTML, CSS and JavaScript.
